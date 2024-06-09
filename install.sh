@@ -60,7 +60,7 @@ restoreBackUp(){
     yarn build:production
     sudo php artisan optimize:clear
 }
-echo "Copyright (c) 2024 Angelillo15 and NoPro200"
+echo "Copyright (c) 2024 robinde"
 echo "This program is free software: you can redistribute it and/or modify"
 echo ""
 echo ""
